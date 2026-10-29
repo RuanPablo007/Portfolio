@@ -11,7 +11,7 @@ O portfólio reúne informações sobre mim, meus conhecimentos em desenvolvimen
 
 **Status: concluído.** O site foi desenvolvido com **HTML5 e CSS3** e pode ser aberto em computadores e celulares.
 
-**Link do portfólio:** ``
+**Link do portfólio:** `https://ruan-pablo-portfolio.vercel.app/`
 
 O site apresenta meu perfil, projetos, tecnologias e contatos.
 
